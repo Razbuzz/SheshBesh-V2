@@ -1,0 +1,17 @@
+C:\Users\idol\Desktop\New folder\SheshBesh-V2\gameee\gameee\bin\Debug\net7.0-windows\gameee.exe
+C:\Users\idol\Desktop\New folder\SheshBesh-V2\gameee\gameee\bin\Debug\net7.0-windows\gameee.deps.json
+C:\Users\idol\Desktop\New folder\SheshBesh-V2\gameee\gameee\bin\Debug\net7.0-windows\gameee.runtimeconfig.json
+C:\Users\idol\Desktop\New folder\SheshBesh-V2\gameee\gameee\bin\Debug\net7.0-windows\gameee.dll
+C:\Users\idol\Desktop\New folder\SheshBesh-V2\gameee\gameee\bin\Debug\net7.0-windows\gameee.pdb
+C:\Users\idol\Desktop\New folder\SheshBesh-V2\gameee\gameee\obj\Debug\net7.0-windows\gameee.Form1.resources
+C:\Users\idol\Desktop\New folder\SheshBesh-V2\gameee\gameee\obj\Debug\net7.0-windows\gameee.Properties.Resources.resources
+C:\Users\idol\Desktop\New folder\SheshBesh-V2\gameee\gameee\obj\Debug\net7.0-windows\gameee.csproj.GenerateResource.cache
+C:\Users\idol\Desktop\New folder\SheshBesh-V2\gameee\gameee\obj\Debug\net7.0-windows\gameee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idol\Desktop\New folder\SheshBesh-V2\gameee\gameee\obj\Debug\net7.0-windows\gameee.AssemblyInfoInputs.cache
+C:\Users\idol\Desktop\New folder\SheshBesh-V2\gameee\gameee\obj\Debug\net7.0-windows\gameee.AssemblyInfo.cs
+C:\Users\idol\Desktop\New folder\SheshBesh-V2\gameee\gameee\obj\Debug\net7.0-windows\gameee.csproj.CoreCompileInputs.cache
+C:\Users\idol\Desktop\New folder\SheshBesh-V2\gameee\gameee\obj\Debug\net7.0-windows\gameee.dll
+C:\Users\idol\Desktop\New folder\SheshBesh-V2\gameee\gameee\obj\Debug\net7.0-windows\refint\gameee.dll
+C:\Users\idol\Desktop\New folder\SheshBesh-V2\gameee\gameee\obj\Debug\net7.0-windows\gameee.pdb
+C:\Users\idol\Desktop\New folder\SheshBesh-V2\gameee\gameee\obj\Debug\net7.0-windows\gameee.genruntimeconfig.cache
+C:\Users\idol\Desktop\New folder\SheshBesh-V2\gameee\gameee\obj\Debug\net7.0-windows\ref\gameee.dll
